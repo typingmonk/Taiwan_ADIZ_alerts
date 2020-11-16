@@ -7,8 +7,8 @@ Collect open records about Taiwan ADIZ(防空識別區) reports around the world
 - json key 說明：
   - `title`: 記錄標題
   - `title_en`: 同上，改以英文描述，Optional
-  - `date`: 記錄日期，僅記錄至日期，不會記錄到事件當下的時間
-  - `date_en`: 同上，改以英文描述，Optional
+  - `date`: 格式為`yyyy-mm-dd`，記錄日期，僅記錄至日期，不會記錄到事件當下的時間
+  - `approx_time`: 大略的發生時間，可能的值為 `上午`, `下午`, `傍晚`, `晚間`，Optional
   - `craft_types`: 軍機、飛行器型號
   - `craft_types_en`: 同上，改以英文描述，Optional
   - `map_imgs`: 航線記錄地圖，檔案在 `img` 資料夾裡
