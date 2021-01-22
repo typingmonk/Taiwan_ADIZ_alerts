@@ -1,4 +1,4 @@
-# Taiwan_ADIZ_Alerts
+# Taiwan_ADIZ_alerts
 Data visualization of Taiwan ADIZ(防空識別區) reports around the world. For more project detail see landing page: https://g0v.hackmd.io/@tmonk/Bkff8k5qv
 
 ## 計畫源起
