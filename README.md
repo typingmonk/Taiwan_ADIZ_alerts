@@ -1,4 +1,4 @@
-# Taiwan_ADIZ_Records
+# Taiwan_ADIZ_Alerts
 Data visualization of Taiwan ADIZ(防空識別區) reports around the world. For more project detail see landing page: https://g0v.hackmd.io/@tmonk/Bkff8k5qv
 
 ## 計畫源起
@@ -6,7 +6,7 @@ Data visualization of Taiwan ADIZ(防空識別區) reports around the world. For
 
 ## 相關專案、連結
 - [Project Landing Page](https://g0v.hackmd.io/@tmonk/Bkff8k5qv/)
-- [資料視覺化網站](https://github.com/felixshai/Taiwan_ADIZ_Records)
+- [資料視覺化網站](https://github.com/felixshai/Taiwan_ADIZ_alerts)
 - [資料爬蟲](https://github.com/felixshai/mnd_ADIZ_news_crawler)
 - [工作進度 Trello](https://trello.com/b/mI77X8dl/cronjob-and-crawler)
 
