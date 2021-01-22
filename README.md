@@ -6,9 +6,9 @@ Data visualization of Taiwan ADIZ(防空識別區) reports around the world. For
 
 ## 相關專案、連結
 - [Project Landing Page](https://g0v.hackmd.io/@tmonk/Bkff8k5qv/)
-- [資料視覺化網站](https://github.com/felixshai/Taiwan_ADIZ_alerts)
-- [資料爬蟲](https://github.com/felixshai/mnd_ADIZ_news_crawler)
-- [工作進度 Trello](https://trello.com/b/mI77X8dl/cronjob-and-crawler)
+- [GitHub 資料視覺化網站](https://github.com/felixshai/Taiwan_ADIZ_alerts)
+- [GitHub 資料爬蟲](https://github.com/felixshai/mnd_ADIZ_news_crawler)
+- [Trello 工作進度](https://trello.com/b/mI77X8dl/cronjob-and-crawler)
 
 ## 資料來源
 [中華民國國防部即時軍事動態](https://www.mnd.gov.tw/PublishTable.aspx?Types=%E5%8D%B3%E6%99%82%E8%BB%8D%E4%BA%8B%E5%8B%95%E6%85%8B&title=%E5%9C%8B%E9%98%B2%E6%B6%88%E6%81%AF)
